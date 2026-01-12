@@ -106,8 +106,7 @@ json
 } 
 
 📂 Project Structure
-lua
-Copy code
+
 agentic-workflow-agent/
 │
 ├── app/
@@ -133,27 +132,26 @@ agentic-workflow-agent/
 ├── .env.example
 ├── LICENSE
 └── README.md
+
+
+
 🔑 Setup Instructions
 1️⃣ Clone the Repository
-bash
-Copy code
+
 git clone https://github.com/<your-username>/agentic-workflow-agent.git
 cd agentic-workflow-agent
+
+
 2️⃣ Create Virtual Environment
-bash
-Copy code
+
 python -m venv .venv
 Activate:
 
 Windows
 
-bash
-Copy code
 .venv\Scripts\activate
 Linux / Mac
 
-bash
-Copy code
 source .venv/bin/activate
 3️⃣ Install Dependencies
 bash
@@ -163,32 +161,28 @@ pip install -r requirements.txt
 Create .env in the project root:
 
 env
-Copy code
+
 OPENAI_API_KEY=your_openai_key_here
 MODEL_NAME=gpt-4o-mini
+
+
 ✅ gpt-4o-mini is recommended for best speed & cost.
 
 ▶️ Run in CLI Mode
 This runs the agent from terminal:
 
-bash
-Copy code
+
 python -m app.main
 ✅ Output generated here:
-
-bash
-Copy code
 runs/final_run.json
+
+
 🖥️ Run Streamlit UI
 Start the Streamlit app:
 
-bash
-Copy code
 streamlit run streamlit_app.py
 Open browser:
 
-arduino
-Copy code
 http://localhost:8501
 ✅ Features:
 
@@ -208,8 +202,6 @@ Output also saved locally in /runs
 
 Generated file:
 
-bash
-Copy code
 runs/streamlit_run.json
 ⏱️ Performance
 Typical runtime:
@@ -263,8 +255,6 @@ Satya Srinath
 GitHub: @satya66123
 Email: satyasrinath653512@gmail.com
 
-yaml
-Copy code
 
 ---
 
