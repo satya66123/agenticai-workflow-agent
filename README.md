@@ -280,3 +280,22 @@ Autonomous workflow agent: Resume → JD → Skill Gap → Plan → Rewrite → 
 
 
 ### ✅ Status: completed ✅✅✅✅✅✅✅
+
+
+---
+
+## 🚀 Future Updates (Roadmap)
+
+Planned improvements for upcoming versions:
+
+- ✅ Add session-based history tracking (store multiple runs with timestamps)
+- ✅ Export report in multiple formats (JSON + TXT + Markdown)
+- ✅ Add "Copy Output" button in Streamlit UI
+- ✅ Add input upload option (Upload Resume/JD as `.txt` file)
+- ✅ Add token usage tracking (input tokens + output tokens)
+- ✅ Improve skill gap scoring (priority weights for missing skills)
+- ✅ Add resume ATS optimization mode (ATS-friendly summary + keyword mapping)
+- ✅ Add evaluation scoring (output quality score & feedback)
+- ✅ Optional caching to reduce repeat API costs
+
+These upgrades will make the agent more scalable, production-ready, and better suited for real-world deployment.
