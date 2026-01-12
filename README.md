@@ -96,14 +96,15 @@ All outputs are returned as **strict JSON**, displayed in **Streamlit UI**, and 
 
 The agent returns output in the format:
 
-```json
+json
 {
   "skills_extracted": { "resume_skills": [], "jd_skills": [] },
   "gap_analysis": { "missing_skills": [], "weak_skills": [], "strong_skills": [] },
   "improvement_plan": { "priority_skills": [], "plan": [], "projects": [] },
   "resume_rewrite": { "summary": "", "bullets": [] },
   "self_review": { "final_summary": "", "final_bullets": [], "notes": "" }
-}
+} 
+
 📂 Project Structure
 lua
 Copy code
