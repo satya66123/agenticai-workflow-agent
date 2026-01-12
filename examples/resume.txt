@@ -1,0 +1,52 @@
+SATYA SRINATH
+Full Stack Developer | Java Spring Boot | PHP MVC | REST APIs | SQL | Docker | AWS | AI/LLM Backend
+Location: India | Email: satyasrinath653512@gmail.com | GitHub: satya66123
+
+SUMMARY
+Full Stack Developer with 8+ years of experience building scalable backend services and web applications using Java (Spring Boot), PHP (MVC), REST APIs, SQL, and modern deployment practices. Strong experience in designing APIs, improving performance, debugging production issues, and building structured backend systems. Recently focused on AI backend development by creating LLM API services and agentic AI automation systems using OpenAI APIs.
+
+CORE SKILLS
+- Backend: Java, Spring Boot, Hibernate, REST APIs, Microservices
+- Web: PHP MVC, HTML, CSS, JavaScript
+- Databases: MySQL, PostgreSQL
+- DevOps: Docker, Linux, Git, GitHub Actions (basic), CI/CD basics
+- Cloud: AWS (EC2, S3 basics)
+- AI/LLM: OpenAI API integration, structured prompts, validation, response shaping
+- Tools: Postman, Swagger/OpenAPI, VS Code, IntelliJ
+
+WORK EXPERIENCE
+
+1) Full Stack Developer
+Project: Enterprise Web Applications
+- Designed and developed REST APIs using Spring Boot and PHP MVC
+- Implemented request validation, error handling, and structured API responses
+- Built reusable modules for authentication, permissions, and admin workflows
+- Optimized SQL queries and improved application performance
+- Collaborated with QA and product team to deliver stable releases
+
+2) Full Stack Developer
+Project: Customer Management System / CRM
+- Developed backend modules for user management and reporting
+- Integrated payment and notification services
+- Improved security by implementing input sanitization and logging
+- Worked on deployments and environment configurations
+
+PROJECTS
+1) LLM API Service (FastAPI + OpenAI)
+- Built an LLM backend API with prompt templates, validation, caching, and token tracking
+- Designed a production-style structure with clean error handling
+
+2) Agentic AI Task Executor (Python + OpenAI)
+- Built an agent that breaks tasks into steps and executes tool-like actions
+- Implemented state memory and structured outputs
+
+EDUCATION
+Bachelor’s Degree / Equivalent (optional text)
+
+CERTIFICATIONS
+- OpenAI / GenAI / Cloud / DevOps workshops and verified certificates (various)
+
+ADDITIONAL
+- Strong debugging mindset
+- Comfortable in production support and backend problem solving
+- Always improving architecture and clean code practices

@@ -1,0 +1,100 @@
+{
+  "skills_extracted": {
+    "resume_skills": [
+      "Java",
+      "Spring Boot",
+      "PHP MVC",
+      "REST APIs",
+      "SQL",
+      "Docker",
+      "AWS",
+      "AI/LLM",
+      "OpenAI API integration",
+      "Postman",
+      "Swagger/OpenAPI",
+      "VS Code",
+      "IntelliJ"
+    ],
+    "jd_skills": [
+      "Python",
+      "FastAPI",
+      "REST API",
+      "OpenAI API",
+      "LLM orchestration",
+      "structured prompts",
+      "token logging",
+      "autonomous agents",
+      "workflow automation",
+      "self-review loop",
+      "decision-making",
+      "memory store",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  "gap_analysis": {
+    "missing_skills": [
+      "Python",
+      "FastAPI",
+      "LLM orchestration",
+      "token logging",
+      "autonomous agents",
+      "workflow automation",
+      "self-review loop",
+      "decision-making",
+      "memory store"
+    ],
+    "weak_skills": [
+      "Docker",
+      "CI/CD"
+    ],
+    "strong_skills": [
+      "Java",
+      "Spring Boot",
+      "PHP MVC",
+      "REST APIs",
+      "SQL",
+      "AWS",
+      "OpenAI API integration"
+    ]
+  },
+  "improvement_plan": {
+    "priority_skills": [
+      "Python",
+      "FastAPI",
+      "LLM orchestration",
+      "autonomous agents"
+    ],
+    "plan": [
+      "Complete an online course on Python focusing on backend development.",
+      "Build a small project using FastAPI to create REST APIs.",
+      "Study LLM orchestration techniques and implement a prototype.",
+      "Research and implement autonomous agents in a personal project."
+    ],
+    "projects": [
+      "Develop a FastAPI application that integrates with OpenAI APIs for LLM services.",
+      "Create a mock autonomous agent that performs a simple task and logs its actions."
+    ]
+  },
+  "resume_rewrite": {
+    "summary": "Dynamic Full Stack Developer with over 8 years of experience specializing in backend services and web applications. Proficient in Java Spring Boot and PHP MVC, with a strong focus on REST APIs and database management. Recently engaged in AI backend development, creating innovative LLM API services and automation systems using OpenAI technologies. Eager to leverage expertise in Python and FastAPI for advanced AI solutions.",
+    "bullets": [
+      "Designed and implemented scalable REST APIs using Java Spring Boot and PHP MVC, ensuring high performance and reliability.",
+      "Developed and maintained backend modules for complex systems, integrating payment and notification services.",
+      "Optimized SQL queries and improved application performance through effective debugging and validation techniques.",
+      "Created LLM backend APIs with prompt orchestration, validation, and token tracking for AI-driven applications.",
+      "Collaborated with cross-functional teams to deliver robust and stable releases, enhancing user satisfaction."
+    ]
+  },
+  "self_review": {
+    "final_summary": "Proactive Full Stack Developer with 8+ years of experience in backend service architecture and web application development. Expert in Java Spring Boot and PHP MVC, with a growing proficiency in Python and FastAPI for AI applications. Passionate about building efficient and scalable systems, with a recent focus on LLM technologies and autonomous workflows.",
+    "final_bullets": [
+      "Expertly designed REST APIs using Java Spring Boot and PHP MVC, focusing on modular architecture and clean error handling.",
+      "Enhanced application security and performance through rigorous validation and optimization of SQL queries.",
+      "Pioneered the development of LLM API services, integrating OpenAI technologies for innovative backend solutions.",
+      "Led collaborative efforts with QA and product teams to ensure high-quality deployments and user satisfaction.",
+      "Continually pursuing knowledge in Python and FastAPI to expand capabilities in AI-driven backend development."
+    ],
+    "notes": "The revised summary and bullet points emphasize both existing strengths and areas for improvement, aligning closely with the job description. The focus on Python and FastAPI in the improvement plan is crucial for bridging the skill gap."
+  }
+}

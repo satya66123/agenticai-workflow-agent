@@ -1,0 +1,34 @@
+JOB TITLE: AI Backend Developer / LLM Engineer (Backend)
+
+COMPANY OVERVIEW
+We are building AI-powered automation solutions and internal LLM services for enterprise users. We need a backend engineer who can build production-style APIs and autonomous workflow agents.
+
+ROLE RESPONSIBILITIES
+- Design and develop backend APIs for LLM-based services (FastAPI/Flask preferred)
+- Build structured prompt orchestration layers
+- Implement validations, error handling, logging, and token usage tracking
+- Create autonomous agents that can plan steps, execute workflows, and self-review output
+- Build clean system design with modular architecture
+- Work with structured JSON responses and consistent output formatting
+
+REQUIRED SKILLS
+- Strong Python backend experience (FastAPI preferred)
+- Experience in REST APIs, request validation, clean error handling
+- Strong understanding of backend engineering principles
+- Knowledge of OpenAI API / LLM APIs integration
+- Ability to write maintainable, modular code
+
+GOOD TO HAVE
+- Experience with Docker, CI/CD
+- Understanding of agent lifecycle patterns (state machine, memory, evaluation loop)
+- Experience deploying applications to cloud (AWS/GCP)
+
+INTERVIEW FOCUS AREAS
+- API design and best practices
+- Production-level error handling and input validation
+- Agent workflows: state, decisions, memory
+- System design thinking for scalable AI backend systems
+
+KEYWORDS
+FastAPI, Python, REST API, OpenAI API, LLM orchestration, structured prompts, token logging,
+autonomous agents, workflow automation, self-review loop, decision-making, memory store

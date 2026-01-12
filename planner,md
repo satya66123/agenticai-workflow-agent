@@ -1,0 +1,129 @@
+# Planner — Agentic AI Project 2 (Workflow Agent)
+
+## Project Name
+**Agentic AI Project 2 — Workflow Agent**
+
+## Repo
+`agentic-workflow-agent`
+
+## Goal
+Build a user-friendly **autonomous workflow agent** that can:
+**Resume → JD → Skill Gap → Plan → Rewrite → Self-Review**
+and generate a downloadable **JSON report**.
+
+This project demonstrates:
+- workflow automation
+- stateful multi-step reasoning (agentic output)
+- structured outputs
+- practical career workflow use case
+
+---
+
+## Core Workflow (Single Workflow Only)
+✅ Resume → JD → Skill Gap → Plan → Rewrite → Self-Review
+
+No mixing with other workflows.
+
+---
+
+## Tech Stack
+- Python 3.10+
+- OpenAI API
+- Pydantic (validation)
+- Streamlit UI
+- JSON output export
+
+---
+
+## Constraints Followed
+- ✅ No RAG
+- ✅ No Embeddings
+- ✅ No Vector DB
+- ✅ No LangChain / CrewAI
+- ✅ No async pipelines
+
+Reason: keep the system clean, lightweight, and portfolio-friendly.
+
+---
+
+## Deliverables
+### CLI Mode
+- Run agent using module execution:
+  ```bash
+  python -m app.main
+Output:
+
+runs/final_run.json
+
+Streamlit UI Mode
+Run UI:
+
+bash
+Copy code
+streamlit run streamlit_app.py
+Output:
+
+runs/streamlit_run.json
+
+UI Features:
+
+Resume input
+
+JD input
+
+Resume/JD length controls
+
+Run Agent
+
+Output JSON preview
+
+Download JSON report
+
+Milestones
+✅ Milestone 1 — Repo Setup
+Project structure
+
+Examples added
+
+.env template added
+
+requirements finalized
+
+✅ Milestone 2 — One-shot Agent Execution
+Single OpenAI call for speed
+
+Structured JSON output enforced
+
+✅ Milestone 3 — Streamlit UI Integration
+Complete UI
+
+Confirmation messages
+
+Time taken shown
+
+Download report button
+
+✅ Milestone 4 — Output Storage
+Local output saving under /runs
+
+✅ Milestone 5 — Documentation
+README.md completed
+
+Planner created
+
+MIT License included
+
+Success Criteria
+Project is considered complete if:
+
+Agent runs successfully
+
+Output is valid JSON
+
+Streamlit UI works end-to-end
+
+Report is downloadable
+
+Runtime stays under ~20 seconds
+
+✅ Achieved.

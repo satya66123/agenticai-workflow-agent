@@ -1,0 +1,112 @@
+{
+  "skills_extracted": {
+    "resume_skills": [
+      "Java",
+      "Spring Boot",
+      "PHP MVC",
+      "REST APIs",
+      "SQL",
+      "Docker",
+      "AWS",
+      "OpenAI API integration",
+      "Postman",
+      "Swagger/OpenAPI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Microservices",
+      "MySQL",
+      "PostgreSQL",
+      "Linux",
+      "Git",
+      "GitHub Actions",
+      "CI/CD basics",
+      "structured prompts",
+      "validation",
+      "response shaping"
+    ],
+    "jd_skills": [
+      "Python",
+      "FastAPI",
+      "REST APIs",
+      "request validation",
+      "clean error handling",
+      "backend engineering principles",
+      "OpenAI API",
+      "LLM APIs integration",
+      "maintainable code",
+      "Docker",
+      "CI/CD",
+      "agent lifecycle patterns",
+      "AWS",
+      "GCP",
+      "API design",
+      "production-level error handling",
+      "input validation",
+      "state",
+      "decisions",
+      "memory",
+      "system design"
+    ]
+  },
+  "gap_analysis": {
+    "missing_skills": [
+      "Python",
+      "FastAPI",
+      "agent lifecycle patterns",
+      "GCP"
+    ],
+    "weak_skills": [
+      "Docker",
+      "CI/CD",
+      "AWS"
+    ],
+    "strong_skills": [
+      "Java",
+      "Spring Boot",
+      "PHP MVC",
+      "REST APIs",
+      "OpenAI API integration",
+      "structured prompts",
+      "validation",
+      "response shaping"
+    ]
+  },
+  "improvement_plan": {
+    "priority_skills": [
+      "Python",
+      "FastAPI",
+      "agent lifecycle patterns"
+    ],
+    "plan": [
+      "Complete an online course on Python focusing on backend development.",
+      "Build a small project using FastAPI to create RESTful APIs.",
+      "Study agent lifecycle patterns through relevant literature or courses."
+    ],
+    "projects": [
+      "Develop a sample project using FastAPI that integrates with OpenAI API.",
+      "Create a simple autonomous agent that performs a specific task using state management."
+    ]
+  },
+  "resume_rewrite": {
+    "summary": "Results-driven Full Stack Developer with over 8 years of experience in backend services and web applications. Proficient in Java (Spring Boot) and PHP MVC, with a strong focus on designing scalable REST APIs and improving application performance. Recently transitioned into AI backend development, specializing in LLM API services and automation systems using OpenAI APIs. Eager to leverage Python and FastAPI skills to build innovative AI solutions.",
+    "bullets": [
+      "Designed and developed robust REST APIs using Spring Boot and PHP MVC for enterprise applications.",
+      "Implemented comprehensive request validation, error handling, and structured API responses to enhance system reliability.",
+      "Built modular authentication and permissions systems, optimizing SQL queries for performance.",
+      "Led the development of LLM API services with OpenAI integration, focusing on prompt orchestration and token tracking.",
+      "Collaborated cross-functionally to ensure stable releases and high-quality deliverables in a fast-paced environment."
+    ]
+  },
+  "self_review": {
+    "final_summary": "Accomplished Full Stack Developer with 8+ years of experience in backend development, specializing in Java and PHP frameworks. Currently focused on AI backend solutions, particularly in LLM services and automation using OpenAI APIs. Committed to continuous learning and improvement, with plans to enhance Python and FastAPI expertise.",
+    "final_bullets": [
+      "Expertly designed and implemented REST APIs with Spring Boot and PHP MVC, ensuring high performance and reliability.",
+      "Enhanced application security and stability through effective error handling and input validation.",
+      "Developed LLM API services, incorporating advanced features like prompt orchestration and token management.",
+      "Fostered collaboration with QA and product teams to deliver high-quality software solutions.",
+      "Actively pursuing knowledge in Python and FastAPI to broaden backend development capabilities."
+    ],
+    "notes": "The resume now aligns better with the job description, emphasizing relevant skills and experiences. The improvement plan is actionable and focuses on bridging the skill gaps identified."
+  }
+}
