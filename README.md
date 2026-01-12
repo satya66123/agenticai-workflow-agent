@@ -105,6 +105,8 @@ json
   "self_review": { "final_summary": "", "final_bullets": [], "notes": "" }
 } 
 
+---
+
 📂 Project Structure
 
 agentic-workflow-agent/
@@ -133,7 +135,7 @@ agentic-workflow-agent/
 ├── LICENSE
 └── README.md
 
-
+---
 
 🔑 Setup Instructions
 1️⃣ Clone the Repository
@@ -141,6 +143,7 @@ agentic-workflow-agent/
 git clone https://github.com/<your-username>/agentic-workflow-agent.git
 cd agentic-workflow-agent
 
+---
 
 2️⃣ Create Virtual Environment
 
@@ -153,10 +156,17 @@ Windows
 Linux / Mac
 
 source .venv/bin/activate
+
+---
+
+
 3️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
+
+---
+
 4️⃣ Add .env File
 Create .env in the project root:
 
@@ -165,6 +175,7 @@ env
 OPENAI_API_KEY=your_openai_key_here
 MODEL_NAME=gpt-4o-mini
 
+---
 
 ✅ gpt-4o-mini is recommended for best speed & cost.
 
@@ -184,6 +195,10 @@ streamlit run streamlit_app.py
 Open browser:
 
 http://localhost:8501
+
+---
+
+
 ✅ Features:
 
 Paste Resume Text
@@ -216,6 +231,8 @@ JD length
 
 internet latency
 
+---
+
 ✅ One-shot execution drastically reduces runtime compared to multi-call pipelines.
 
 ✅ Sample Output (Example)
@@ -233,6 +250,8 @@ resume_rewrite.summary
 
 self_review.final_bullets
 
+---
+
 🔒 Design Constraints (Intentional)
 This repo intentionally avoids:
 
@@ -246,9 +265,15 @@ This repo intentionally avoids:
 
 Reason: keep it simple, lightweight, and purely focused on agentic workflow design.
 
+---
+
+
 📜 License
 This project is licensed under the MIT License.
 See: LICENSE
+
+---
+
 
 👤 Author
 Satya Srinath
@@ -263,8 +288,8 @@ Email: satyasrinath653512@gmail.com
 ### ✅ Repo Name
 agentic-workflow-agent
 
-shell
-Copy code
+
+
 
 ### ✅ Repo Description
 Autonomous workflow agent: Resume → JD → Skill Gap → Plan → Rewrite → Self-Review with Streamlit UI + structured JSON output.
